@@ -2,6 +2,8 @@
 
 In order to successfully run this project we have to follow below steps
 
+* git clone : `https://github.com/akshaykharche/Sela-Assignment.git`
+* cd Sela-Assignment
 * Install project dependencies: `npm i`
 * To start the application: `npm start`
 * To run the tests: `npm test`
